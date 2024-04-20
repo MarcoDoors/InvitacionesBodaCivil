@@ -2,7 +2,7 @@
     "use strict";
       $('.sakura-falling').sakura();
 })(jQuery);
-$(document).on('scroll', function(){
+$(document).on('mousemove', function(){
     document.getElementById("my_audio").play();
 });
 
