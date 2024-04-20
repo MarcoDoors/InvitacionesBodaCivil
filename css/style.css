@@ -466,7 +466,7 @@ body {
 	width: auto;
 	height: auto;
 	padding: 20px;
-	background-color: #eee;
+	background-color: #f3ecec;
 	border-radius: 20px;
 	font-size: 16px;
 }
@@ -505,19 +505,20 @@ body {
 }
 
 .days {
-	background: linear-gradient(90deg, #b33a46, #9b313c);
+	background: linear-gradient(90deg, #FDF2E9, #FDF2E9);
 }
 
 .hours {
-	background: linear-gradient(90deg, #a7c3cd, #90a9b2);
+	background: linear-gradient(90deg, #FBEEE6, #FBEEE6);
 }
 
 .minutes {
-	background-color: #874562;
+	background: linear-gradient(90deg, #FAE5D3, #FAE5D3);
+	
 }
 
 .seconds {
-	background-color: #145689;
+	background: linear-gradient(90deg, #F6DDCC, #F6DDCC);
 }
 
 .date {
