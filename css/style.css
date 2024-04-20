@@ -507,19 +507,23 @@ body {
 
 .days {
 	background: linear-gradient(90deg, #FDF2E9, #FDF2E9);
+	color: #7561a7b4;
 }
 
 .hours {
 	background: linear-gradient(90deg, #FBEEE6, #FBEEE6);
+	color: #7561a7b4;
 }
 
 .minutes {
 	background: linear-gradient(90deg, #FAE5D3, #FAE5D3);
+	color: #7561a7b4;
 	
 }
 
 .seconds {
 	background: linear-gradient(90deg, #F6DDCC, #F6DDCC);
+	color: #7561a7b4;
 }
 
 .date {
